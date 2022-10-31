@@ -5,7 +5,7 @@
 
 [![README Header][readme_header_img]][readme_header_link]
 
-[![Cloud Posse][logo]](https://cpco.io/homepage)
+[![Cloud Posse][logo]](https://cpco.io/homepage),
 
 <!--
 
